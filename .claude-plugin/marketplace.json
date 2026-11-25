@@ -1,0 +1,29 @@
+{
+  "name": "formularios-recursos-y-ejecucion-laboral",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Recursos, ejecución y resoluciones en el proceso laboral · España (102 formularios). Para la fase de recurso y ejecución en la jurisdicción social: recursos de reposición, suplicación, casación y queja y su impugnación, ejecución provisional y definitiva de sentencias, embargos, insolvencia y resoluciones del tribunal. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-recursos-y-ejecucion-laboral",
+      "source": "./",
+      "description": "Recursos, ejecución y resoluciones en el proceso laboral · España (102 formularios). Para la fase de recurso y ejecución en la jurisdicción social: recursos de reposición, suplicación, casación y queja y su impugnación, ejecución provisional y definitiva de sentencias, embargos, insolvencia y resoluciones del tribunal. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "laboral",
+        "proceso-laboral"
+      ]
+    }
+  ]
+}
